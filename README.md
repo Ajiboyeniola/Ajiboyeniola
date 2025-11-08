@@ -16,3 +16,5 @@ I am a problem-solver passionate about creating human-centered digital products 
 - [Word2Vec NLP Model](https://github.com/Ajiboyeniola/word2vec) – Text embeddings and semantic search exploration  
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/eniola-ajiboye/) | [Email](ajiboyeniola@gmail.com)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
