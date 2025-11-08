@@ -11,9 +11,8 @@ I am a problem-solver passionate about creating human-centered digital products 
 - 🎨 I believe great technology feels as good as it works.
 
 🔗 **Featured Projects**
-- [Portfolio](#) – My design and development showcase  
-- [Bank Modern App](#) – Responsive banking UI with interactive components  
-- [Word2Vec NLP Model](#) – Text embeddings and semantic search exploration  
-- [Dashboard / Taxaide](#) – Data visualization for financial insights  
+- [Portfolio](https://ajiboyeniola.netlify.app/) – My design and development showcase  
+- [WAEC eStudy](https://estudy.ng/) – Responsive banking UI with interactive components  
+- [Word2Vec NLP Model](https://github.com/Ajiboyeniola/word2vec) – Text embeddings and semantic search exploration  
 
-📫 Let’s connect: https://www.linkedin.com/in/eniola-ajiboye/ | ajiboyeniola@gmail.com
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/eniola-ajiboye/) | [Email](ajiboyeniola@gmail.com)
