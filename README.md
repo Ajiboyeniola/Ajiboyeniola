@@ -2,18 +2,14 @@
 My personal repository
 
 ### 👋 Hi, I’m Eniola Ajiboye
-**Product Designer & Software Engineer**  
-I am a problem-solver passionate about creating human-centered digital products that blend design thinking with engineering precision.
+**Machine Learning Engineer & AI Researcher**  
+I am a graduate student passionate about developing AI-powered solutions that improve healthcare outcomes and solve real-world problems through data-driven insights.
 
-- 💻 I build intuitive interfaces and intelligent systems that enhance how people interact with technology.
-- 🏗️ Currently exploring how software can support architecture, design visualization, and sustainable workspaces.
-- 🧠 Skilled in JavaScript, TypeScript, Python, and UI/UX design (Figma, usability testing, design systems).
-- 🎨 I believe great technology feels as good as it works.
+🧠 I build intelligent machine learning systems that predict clinical outcomes and personalize patient care.
+🏥 Currently developing multimodal deep learning models for hospital readmission prediction, combining structured data, time-series analysis, and natural language processing.
+💻 Skilled in Python, PyTorch, TensorFlow, scikit-learn, and building end-to-end ML pipelines for healthcare applications.
+📊 I believe the best AI models are not just accurate, but also interpretable and clinically actionable.
 
-🔗 **Featured Projects**
-- [Portfolio](https://ajiboyeniola.netlify.app/) – My design and development showcase  
-- [WAEC eStudy](https://estudy.ng/) – Responsive banking UI with interactive components  
-- [Word2Vec NLP Model](https://github.com/Ajiboyeniola/word2vec) – Text embeddings and semantic search exploration  
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/eniola-ajiboye/) | [Email](ajiboyeniola@gmail.com)
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/eniola-ajiboye/) | [Email](jem.ajiboye@gmail.com)
 
