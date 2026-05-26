@@ -1,15 +1,9 @@
-### Hello 👋, I am Eniola Ajiboye
-
-##
-
-### 🧠 About Me
-
----
+## Hello 👋, I am Eniola Ajiboye
 
 ## Data Science | ML Engineer | AI/ML Researcher | and MLOps
 Results-driven **Data Scientist and ML Engineer** with hands-on experience building end-to-end machine learning systems — from raw data exploration to production-ready API deployment. 
 
---
+---
 
 ## 💻 Tech Stack
 
@@ -28,7 +22,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![VS Code](https://img.shields.io/badge/VS_Code-0f0c29?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
 ![Jupyter](https://img.shields.io/badge/Jupyter-302b63?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
 
 ## 📊 Visualization & BI Tools
 
@@ -37,7 +30,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![Power BI](https://img.shields.io/badge/Power_BI-24243e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![SHAP](https://img.shields.io/badge/SHAP_Explainability-0f0c29?style=for-the-badge&logoColor=a78bfa)
 
----
 
 ## ⚡ Engineering Capabilities
 
@@ -52,7 +44,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-24243e?style=flat-square&logoColor=white)
 ![MLOps Practices](https://img.shields.io/badge/MLOps_Practices-0f0c29?style=flat-square&logoColor=white)
 
----
 
 ## 🛠️ Featured Projects
 
@@ -60,7 +51,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 |---|---|---|
 | [🎯 LEAD-SCORING-API](https://github.com/Ajiboyeniola) | Digital Marketing / MLOps | `Python` `Scikit-learn` `Logistic Regression` `FastAPI` `Docker` `MLflow` `Databricks` `Render` |
 
----
 
 ## 📬 Connect With Me
 
