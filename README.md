@@ -1,9 +1,11 @@
 ## Hello 👋, I am Eniola Ajiboye
 
-## Data Science | ML Engineer | AI/ML Researcher | and MLOps
-Results-driven **Data Scientist and ML Engineer** with hands-on experience building end-to-end machine learning systems — from raw data exploration to production-ready API deployment. 
+#### Data Science | ML Engineer | AI/ML Researcher | and MLOps
+Results-driven **Data Scientist and ML Engineer** with hands-on experience building end-to-end machine learning systems. 
 
 ---
+
+## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
@@ -15,6 +17,9 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![MLflow](https://img.shields.io/badge/MLflow-24243e?style=for-the-badge&logo=mlflow&logoColor=a78bfa)
 ![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa)
 ![Pandas](https://img.shields.io/badge/Pandas-302b63?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-24243e?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![Streamlit](https://img.shields.io/badge/Streamlit-0f0c29?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![AWS](https://img.shields.io/badge/AWS-302b63?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Flower FL](https://img.shields.io/badge/Flower_FL-24243e?style=for-the-badge&logoColor=a78bfa)
 ![Databricks](https://img.shields.io/badge/Databricks-0f0c29?style=for-the-badge&logo=databricks&logoColor=a78bfa)
 ![Git](https://img.shields.io/badge/Git-302b63?style=for-the-badge&logo=git&logoColor=white)
@@ -28,7 +33,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![Seaborn](https://img.shields.io/badge/Seaborn-302b63?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-24243e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![SHAP](https://img.shields.io/badge/SHAP_Explainability-0f0c29?style=for-the-badge&logoColor=a78bfa)
 
 
 ## ⚡ Engineering Capabilities
@@ -49,11 +53,10 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 
 | **Project** | **Domain** | **Tech Stack** |
 |---|---|---|
-| [🎯 LEAD-SCORING-API](https://github.com/Ajiboyeniola) | Digital Marketing / MLOps | `Python` `Scikit-learn` `Logistic Regression` `FastAPI` `Docker` `MLflow` `Databricks` `Render` |
+| [🎯 LEAD-SCORING-API](https://github.com/Ajiboyeniola/lead-scoring) | Digital Marketing | `Python` `Scikit-learn` `Logistic Regression` `FastAPI` `Docker` `MLflow` `Databricks` `Render` |
 
 
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/eniola-ajiboye/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajiboyeniola@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-My_Repos-24243e?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Ajiboyeniola)
