@@ -7,8 +7,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-302b63?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-24243e?style=for-the-badge&logoColor=a78bfa)
@@ -20,7 +18,6 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![SQL](https://img.shields.io/badge/SQL-24243e?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0f0c29?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![AWS](https://img.shields.io/badge/AWS-302b63?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Flower FL](https://img.shields.io/badge/Flower_FL-24243e?style=for-the-badge&logoColor=a78bfa)
 ![Databricks](https://img.shields.io/badge/Databricks-0f0c29?style=for-the-badge&logo=databricks&logoColor=a78bfa)
 ![Git](https://img.shields.io/badge/Git-302b63?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=a78bfa)
