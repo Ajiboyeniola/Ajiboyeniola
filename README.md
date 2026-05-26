@@ -1,18 +1,15 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oyindamola%20Eniola%20Ajiboye&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%2FML%20Researcher%20%7C%20MLOps&descAlignY=60&descSize=16&descColor=a78bfa" />
-</div>
+### Hello 👋, I am Eniola Ajiboye
 
----
-
-<div align="center">
+----
 
 ### 🧠 About Me
 
-</div>
-
-Results-driven **Data Scientist and ML Engineer** with hands-on experience building end-to-end machine learning systems — from raw data exploration to production-ready API deployment. Passionate about transforming complex, messy datasets into reliable, explainable, and business-impactful solutions. Experienced across multiple domains including **digital marketing, finance, and AI fairness research**, with a growing focus on **MLOps practices** and scalable ML system design. Exhibits strong problem-solving, technical communication, and the ability to bridge the gap between data science and software engineering — building models that don't just perform well in notebooks, but actually ship.
-
 ---
+
+## Data Science | ML Engineer | AI/ML Researcher | and MLOps
+Results-driven **Data Scientist and ML Engineer** with hands-on experience building end-to-end machine learning systems — from raw data exploration to production-ready API deployment. 
+
+--
 
 ## 💻 Tech Stack
 
@@ -70,9 +67,3 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/eniola-ajiboye/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajiboyeniola@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-My_Repos-24243e?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Ajiboyeniola)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</div>
