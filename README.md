@@ -50,7 +50,7 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 
 | **Project** | **Domain** | **Tech Stack** |
 |---|---|---|
-| [🎯 LEAD-SCORING-API](https://github.com/Ajiboyeniola/lead-scoring) | Digital Marketing | `Python` `Scikit-learn` `Logistic Regression` `FastAPI` `Docker` `MLflow` `Databricks` `Render` |
+| [🎯 LEAD-SCORING](https://github.com/Ajiboyeniola/lead-scoring) | Digital Marketing | `Python` `Scikit-learn` `Logistic Regression` `FastAPI` `Docker` `MLflow` `Databricks` `Render` |
 
 
 ## 📬 Connect With Me
