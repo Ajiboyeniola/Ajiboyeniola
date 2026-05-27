@@ -25,14 +25,14 @@ Results-driven **Data Scientist and ML Engineer** with hands-on experience build
 ![Jupyter](https://img.shields.io/badge/Jupyter-302b63?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-#### 📊 Visualization & BI Tools
+### 📊 Visualization & BI Tools
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-302b63?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-24243e?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
-#### ⚡ Engineering Capabilities
+### ⚡ Engineering Capabilities
 
 ![AI/ML Research](https://img.shields.io/badge/AI%2FML_Research-0f0c29?style=flat-square&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-302b63?style=flat-square&logoColor=white)
