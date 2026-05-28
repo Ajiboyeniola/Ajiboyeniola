@@ -1,6 +1,6 @@
 ## Hello 👋, I am Eniola Ajiboye
 
-#### Data Science | ML Engineer | AI/ML Researcher | and MLOps
+#### Data Science | ML Engineer | AI/ML Researcher | MLOps
 Results-driven **Data Scientist and ML Engineer** with hands-on experience building end-to-end machine learning systems. 
 
 ---
